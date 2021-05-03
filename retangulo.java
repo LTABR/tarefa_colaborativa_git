@@ -1,0 +1,7 @@
+/**
+ * retangulo
+ */
+public class retangulo {
+
+    
+}
